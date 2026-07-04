@@ -30,7 +30,6 @@ return {
   { import = "astrocommunity.search.grug-far-nvim" },
 
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
-  { import = "astrocommunity.lsp.lsp-lens-nvim" },
   { import = "astrocommunity.lsp.nvim-lsp-file-operations" },
 
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
